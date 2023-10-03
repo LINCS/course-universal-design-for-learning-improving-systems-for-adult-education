@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2582" moduleid="9985" modulename="page" contextid="65142">
+  <page id="2582">
+    <name>Key Idea: Teach all adults in a system about adult learning theory.</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Key%20Idea.png" alt="Key Idea" width="140" height="136" role="presentation" class="img-responsive atto_image_button_text-top"&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Adults will be significantly more engaged in learning when they understand why they are doing&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;something and how it will help them in the future.&amp;nbsp;This is why&amp;nbsp;we recommend you always make&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;the learning transparent. By taking the time to teach adults about adult learning theory, you&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;can make the strategies you use to teach more transparent, model your commitment to&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;continuously learn in your life and career, and engage participants in conversations about&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;how to improve the teaching/learning process moving forward. This applies to all participants&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;in the system, including, volunteers, teachers, and students.&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Everyone should be aware of adult learning theory &lt;a href="$@PAGEVIEWBYID*10012@$" target="_blank"&gt;(Bates, 2019)&lt;/a&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;img src="@@PLUGINFILE@@/Divider%20Wave.png" alt="Divider Wave" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1690061456</timemodified>
+  </page>
+</activity>

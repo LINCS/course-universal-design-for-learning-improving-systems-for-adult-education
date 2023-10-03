@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2586" moduleid="9989" modulename="page" contextid="65146">
+  <page id="2586">
+    <name>Key Idea: Variability is the norm and exists across the entire adult education system.</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Key%20Idea.png" alt="Key Idea" width="140" height="136" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Variability is the norm, and it exists in how learners engage with content, the support they have for&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;learning, and in things that motivate them. Variability is also contextual. As you think about removing&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;barriers to learning consider the variability in the learners, as well as the variability in the educators,&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;volunteers, administrators, and teachers, and the variability in how instruction is delivered. For example, some&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;learners for example will appreciate the flexibility of learning online, not needing to look for parking&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;or find childcare, while others will be more successful learning in-person because they have fewer&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;distractions. Consider learning more about this concept by going through the separate &lt;a href="https://lincs-moodle-dev.civicactions.net/course/view.php?id=148" target="_blank"&gt;UDL:&amp;nbsp; Learning that Works for All&lt;/a&gt;&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;course in LINCS&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;img src="@@PLUGINFILE@@/Divider%20Wave.png" alt="Divider Wave" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>9</revision>
+    <timemodified>1693007330</timemodified>
+  </page>
+</activity>

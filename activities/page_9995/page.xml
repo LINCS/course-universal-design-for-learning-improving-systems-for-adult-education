@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2592" moduleid="9995" modulename="page" contextid="65152">
+  <page id="2592">
+    <name>Key Idea: Everyone can be an expert learner.</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Key%20Idea.png" alt="Key Idea" width="140" height="136" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;The classroom is one place learning occurs. Being a student is one role. However, adults are learning&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;at work, at home,&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;and&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&amp;nbsp;in the classroom. Educators can learn from their students.&amp;nbsp;It is&amp;nbsp;important to&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;remember that expert learning can happen in any role and can be found in any context. Being an&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;expert learner&amp;nbsp;isn't&amp;nbsp;about your title,&amp;nbsp;it's&amp;nbsp;about how you&amp;nbsp;engage and&amp;nbsp;use resources. Expert learners&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;are purposeful and motivated, knowledgeable and resourceful, and strategic and goal-&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;directed.&amp;nbsp;Anyone and everyone can be an expert learner&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;a href="$@PAGEVIEWBYID*10012@$" target="_blank"&gt;(CAST, 2017 and Elfert, 2019)&lt;/a&gt;&lt;/span&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;img src="@@PLUGINFILE@@/Divider%20Wave.png?time=1671327543505" alt="Divider Wave" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1690062019</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2595" moduleid="9998" modulename="page" contextid="65155">
+  <page id="2595">
+    <name>Key Idea:  Use the concept of Expert Learning to create an “Expert Learning System.”</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-scheme-color="@424242,," data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;img src="@@PLUGINFILE@@/Key%20Idea.png" alt="Lightbulb idea" width="140" height="136" role="presentation" class="img-responsive atto_image_button_text-top"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-scheme-color="@424242,," data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Without a clear vision, educators can become frustrated, anxious, and resistant to trying new&amp;nbsp;&lt;/span&gt;&lt;span data-scheme-color="@424242,," data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;approaches. You can use the concept of expert learning to create a unified vision and common&amp;nbsp;&lt;/span&gt;&lt;span data-scheme-color="@424242,," data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;language for what good teaching looks like and how to best support all learners, including those with&amp;nbsp;&lt;/span&gt;&lt;span data-scheme-color="@424242,," data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;learning differences. If all individuals in the AE system (learners, educators, and administrators) strive&amp;nbsp;&lt;/span&gt;&lt;span data-scheme-color="@424242,," data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;towards expertise regardless of their role, they build a system in which expert learning is modeled,&amp;nbsp;&lt;/span&gt;&lt;span data-scheme-color="@424242,," data-usefontface="true" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;supported, and encouraged across the&amp;nbsp;community.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/divider%20wave.png" alt="Divider wave" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;​&lt;br&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1690063635</timemodified>
+  </page>
+</activity>

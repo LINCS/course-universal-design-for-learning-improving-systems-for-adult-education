@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2584" moduleid="9987" modulename="page" contextid="65144">
+  <page id="2584">
+    <name>Key Idea: Dismantle forms of discrimination by developing your own goal for teaching that is inclusive of all adults.</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Key%20Idea.png" alt="Key Idea" width="140" height="136" role="presentation" class="img-responsive atto_image_button_text-top"&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Help learners reconsider assumptions they have about themselves and stereotypes that society&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;places on them by ensuring your personal goal for teaching is inclusive of all learners and&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;doesn’t unintentionally reinforce biases&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="$@PAGEVIEWBYID*10012@$" target="_blank"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;(&lt;/span&gt;&lt;span data-scheme-color="@000000,," data-usefontface="false" data-contrast="none" xml:lang="EN" lang="EN"&gt;Abedini et al., 2021)&lt;/span&gt;&lt;/a&gt;.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;img src="@@PLUGINFILE@@/Divider%20Wave.png" alt="Divider Wave" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1690061659</timemodified>
+  </page>
+</activity>

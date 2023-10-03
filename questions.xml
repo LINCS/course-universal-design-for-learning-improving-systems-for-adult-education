@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="735">
+    <name>top</name>
+    <contextid>65129</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>296</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+230911124414+yxgMZj</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="736">
+    <name>Default for Option 1: 5-question knowledge check</name>
+    <contextid>65181</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10024</contextinstanceid>
+    <info>The default category for questions shared in context 'Option 1: 5-question knowledge check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+221217230451+BD0rxc</stamp>
+    <parent>738</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="737">
+    <name>Default for Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities</name>
+    <contextid>65129</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>296</contextinstanceid>
+    <info>The default category for questions shared in context 'Expert Teaching and Learning: Leading and Facilitating Educator Growth Course Category: Disabilities'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+221217230451+xmg21L</stamp>
+    <parent>735</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+      <question id="2974">
+        <parent>0</parent>
+        <name>Question 1</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;To design a learning experience based on the principles of Adult Learning&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Theory, you would:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+221217230652+C58mSi</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230825140407+6Tgy3k</version>
+        <hidden>0</hidden>
+        <timecreated>1671318412</timecreated>
+        <timemodified>1692972247</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9335">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Highlight how the learning is relevant to the everyday life or work of learners&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Involve learners in making decisions about how learning is planned&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;and delivered&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9336">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Provide opportunities for learners to pull from past experiences and&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;knowledge they already have&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9337">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;All of&amp;nbsp;the above&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Adult Learning Theory focuses on making learning relevant and self-&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;directed.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1724">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2975">
+        <parent>0</parent>
+        <name>Question 2</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;An expert learner is someone who:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+221217230914+H97rwZ</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230508183719+0lpkxr</version>
+        <hidden>0</hidden>
+        <timecreated>1671318554</timecreated>
+        <timemodified>1683571039</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9338">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Has a high IQ&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9339">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Knows how to learn&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;An expert learner is one who has mastered the art of learning itself.&lt;/span&gt;​&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9340">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Knows a lot in one area&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1725">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2976">
+        <parent>0</parent>
+        <name>Question 3</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;When designing a learning experience for adults, you should consider the variability of:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+221217231324+gL2zFM</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230825140310+CzOLde</version>
+        <hidden>0</hidden>
+        <timecreated>1671318804</timecreated>
+        <timemodified>1692972190</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9341">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;The adult learners, including their prior experiences with learning&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9342">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;The volunteers, administrators and educators who interact with adult learners&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9343">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;The settings in which adult education is delivered&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9344">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;All of&amp;nbsp;the above&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Variability in adult learning exists across learners,&amp;nbsp; staff working with those&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;learners and the settings where the learning takes place.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1726">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2977">
+        <parent>0</parent>
+        <name>Question 4</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;The components of expert systems include:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+221217231709+bGw3EG</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230825140214+9aojHo</version>
+        <hidden>0</hidden>
+        <timecreated>1671319029</timecreated>
+        <timemodified>1692972134</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9345">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Expert learners&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9346">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Expert educators&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9347">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Expert administrators&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9348">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;All of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;learners, educators and administrators are all part of&amp;nbsp; expert learning&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;systems.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1727">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2978">
+        <parent>0</parent>
+        <name>Question 5:</name>
+        <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size: 1.7rem;"&gt;Which of the following is not a characteristic of an expert administrator?&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-moodle-dev.civicactions.net+230206212924+5jDRIS</stamp>
+        <version>lincs-moodle-dev.civicactions.net+230825140233+rkF4wu</version>
+        <hidden>0</hidden>
+        <timecreated>1675718964</timecreated>
+        <timemodified>1692972153</timemodified>
+        <createdby>26700</createdby>
+        <modifiedby>26700</modifiedby>
+        <idnumber>$@NULL@$</idnumber>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="9349">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Stays&amp;nbsp; abreast on new developments in adult education teaching&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;practices and shares their findings with colleagues.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9350">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Asks for educators’ input on the design and kind of professional&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;development offered to them.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9351">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Monitors how well staff implement a single approach to instruction&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;without&amp;nbsp;any adjustments.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&amp;nbsp;Instead of just monitoring how others implement learning, expert&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;administrators model their own expert learning and seek opportunities to learn&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;from their&amp;nbsp;colleagues and co-design learning.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="9352">
+              <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;Promotes staff, educators, volunteers to share their best practices and&amp;nbsp;&lt;/span&gt;&lt;span data-usefontface="false" data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;successes to model different approaches to instruction and problem solving.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1728">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>Your answer is correct.</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>Your answer is incorrect.</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>ABCD</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+            <showstandardinstruction>0</showstandardinstruction>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="738">
+    <name>top</name>
+    <contextid>65181</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10024</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+230911124417+Hycpge</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>
